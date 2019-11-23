@@ -34,6 +34,8 @@ Offsets can be calculated via [MyClimate](https://co2.myclimate.org/en/offset_fu
 - [Gold Standard](https://www.goldstandard.org/)
 - [ActForest](http://actforest.glideapp.io)
 
+You can also measure how much power your deep learning model has consumed via [Power Meter](https://autoai-incubator.github.io/powermeter/). Note that it only covers GPU consumption.
+
 ## Show your commitment with a badge on your repository
 
 | **👇 The Pledge Badge** | **👇 The Carbon Neutral Badge** |
