@@ -25,6 +25,10 @@ Information and communications technology is on track to create 3.5% of global e
 
 Minimize costs and carbon emissions by sharing local infrastructure instead of relying on on-demand cloud computing resources ([Strubell *et al.* (2019)](https://arxiv.org/abs/1906.02243))
 
+## Best practices in deployment
+
+The fossil fuel industry is responsible for most of the world's CO2 emission by a large margin. Artificial intelligence has been a driving force of optimizing gas and oil extraction processes. By following the Standard, we pledge to not make developed applications available for fossil fuel focused usage.
+
 ## Offset your resulting emissions
 
 We recommend offsetting your emissions to certified carbon neutrality projects if possible.
