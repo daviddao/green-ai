@@ -8,7 +8,7 @@
 The Green AI Standard aims to develop a standard and raise awareness for best environmental practices in AI research and development
 
 ## The climate issue in AI
-Developing machine learning models is extremly costly for the environment ([Strubell *et al.* (2019)](https://arxiv.org/abs/1906.02243))
+Developing machine learning models is extremely costly for the environment ([Strubell *et al.* (2019)](https://arxiv.org/abs/1906.02243))
 - Training [BERT](https://arxiv.org/abs/1810.04805) on a GPU is roughly equivalent to a trans-American flight (650kg CO2)
 - One (512px) [BigGAN](https://arxiv.org/abs/1809.11096) experiment is equivalent to a trans-Atlantic roundtrip (~1 to 2t of CO2)
 - Neural architecture search experiments for [Transformer](https://arxiv.org/abs/1706.03762) is emitting as much as 50 years of an average human life (~280t of CO2) 
